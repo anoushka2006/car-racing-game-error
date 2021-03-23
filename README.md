@@ -1,1 +1,2 @@
-# car-racing-game-error
+# synchronousBallMovement
+Ball moving synchronously
